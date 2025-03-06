@@ -27,7 +27,7 @@
     String _name;
     int _age;
 
-    //  생성자
+    //  생성자 : 이름 앞에 _ 붙이면 private 세팅
     PersonEx(this._name, this._age);
 
     //  private 변수를 위한 getter
